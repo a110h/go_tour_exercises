@@ -1,0 +1,19 @@
+Полезные ресурсы для подготовки
+
+https://dave.cheney.net/practical-go/presentations/qcon-china.html
+
+https://tour.golang.org
+
+https://golang.org/doc/effective_go
+
+https://microservices.io/patterns/microservices.html  
+
+https://www.postgresql.org/docs/13/index.html 
+
+Вернон Вон «Предметно-ориентированное проектирование. Самое основное» 
+
+Нархид Ния, Гвен Шапира «Apache Kafka. Потоковая обработка и анализ данных»
+
+Ганс-Юрген Шениг «PostgreSQL 11. Мастерство разработки»
+
+Задачи на ресурсе https://leetcode.com уровня easy и middle
